@@ -1,1 +1,1 @@
-current working directory
+$ wc -l file
